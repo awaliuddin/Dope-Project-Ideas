@@ -1,3 +1,5 @@
+## Thank you [@nishant-Tiwari24](https://github.com/nishant-Tiwari24) | [Source](https://github.com/nishant-Tiwari24/company-wise-dsa)
+# 🚀Dope Project Ideas🤩
 | **Company**            | **Project 1**                                                    | **Project 2**                                               | **Project 3**                                          |
 |------------------------|------------------------------------------------------------------|-------------------------------------------------------------|-------------------------------------------------------|
 | **Arista Networks**     | Network Performance Dashboard                                    | AI-Driven Network Security                                  | Automated Network Configuration Tool                  |
