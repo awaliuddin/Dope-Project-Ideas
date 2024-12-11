@@ -1,4 +1,4 @@
-## Thank you [@nishant-Tiwari24](https://github.com/nishant-Tiwari24) | [Source](https://github.com/nishant-Tiwari24/company-wise-dsa)
+## 🤩Thank you [@nishant-Tiwari24](https://github.com/nishant-Tiwari24) | [Source](https://github.com/nishant-Tiwari24/company-wise-dsa)
 # 🚀Dope Project Ideas🤩
 | **Company**            | **Project 1**                                                    | **Project 2**                                               | **Project 3**                                          |
 |------------------------|------------------------------------------------------------------|-------------------------------------------------------------|-------------------------------------------------------|
